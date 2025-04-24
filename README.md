@@ -27,5 +27,6 @@ Um clone simples da interface do Spotify, desenvolvido com **HTML**, **CSS** e *
 
 ## 📸 Preview
 
-![Spotify Clone Preview](col
+
+![Anotação 2025-04-24 104438](https://github.com/user-attachments/assets/14075a3b-1c16-4d76-bdf3-171c86e78448)
 
